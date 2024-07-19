@@ -1,0 +1,23 @@
+##azure resource ###
+resource group -- grouping of resources
+why combining?
+we can track the resources
+access
+permission
+security
+auditing
+cost monitoring
+
+how to manage azure resources with single azure account
+payment-dev
+payment-qa
+payment-prod
+it is like one to one mapping
+
+request-->resource manager-->datacenter-->creates what you want
+
+if you want to create vm the software is called hypervisor
+
+
+
+
